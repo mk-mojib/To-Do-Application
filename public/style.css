@@ -1,0 +1,30 @@
+body{
+    margin-left: 20px;
+}
+h1{
+    color: #128c7e;
+}
+.chat{
+    background-color: lightslategrey;
+    color: aqua;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    display: inline-block;
+}
+.msg{
+    background-color: dodgerblue ;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+button{
+    border-radius: 25px;
+    background-color:  dodgerblue ;
+    color: #ffffff;
+}
+.edit-chat{
+    border-radius: 25px;
+    color: #ffffff;
+    background-color:#5cb85c ;
+}
